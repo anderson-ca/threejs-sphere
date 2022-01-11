@@ -1,5 +1,5 @@
 
-# Three.js Starter
+# Three.js Sphere
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
